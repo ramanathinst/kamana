@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        i love india
+        i love india nooo   
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
